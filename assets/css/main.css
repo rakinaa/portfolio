@@ -1901,7 +1901,6 @@ input[type=radio]:focus + label:before {
 
 .statistics i {
   font-size: 50px;
-  font-weight: bold;
 }
 
 .icon.major {
